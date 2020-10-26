@@ -1,5 +1,5 @@
 public class Class1 {
     public static void main(String[]args) {
-        System.out.println("SimpliLearn");
+        System.out.println("SimpliLearn Test");
     }
 }
